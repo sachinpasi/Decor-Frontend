@@ -31,6 +31,7 @@ export default ProductsPage;
 const HeaderData = {
   Title: "Products",
   Button: [{ Title: "All Products" }],
+  Delete: [],
   Links: [
     {
       Title: "ADD PRODUCT",
