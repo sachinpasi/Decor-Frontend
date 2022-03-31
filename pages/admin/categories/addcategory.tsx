@@ -23,6 +23,7 @@ export default AddCategory;
 const HeaderData = {
   Title: "ADD CATEGORY",
   Button: [],
+  Delete: [],
   Links: [
     {
       Title: "Back To Categories",
