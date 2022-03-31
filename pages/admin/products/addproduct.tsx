@@ -24,6 +24,7 @@ export default AddProduct;
 const HeaderData = {
   Title: "ADD PRODUCT",
   Button: [],
+  Delete: [],
   Links: [
     {
       Title: "Back To Projects",
