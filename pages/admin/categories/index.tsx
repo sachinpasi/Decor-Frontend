@@ -37,6 +37,7 @@ export default Categories;
 const HeaderData = {
   Title: "CATEGORIES",
   Button: [{ Title: "All Categories" }],
+  Delete: [],
   Links: [
     {
       Title: "ADD CATEGORY",
